@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/hariprasath2603.github.io/React-Monster/static/css/main.e24f122d.chunk.css",
-    "main.js": "/hariprasath2603.github.io/React-Monster/static/js/main.79b02966.chunk.js",
-    "main.js.map": "/hariprasath2603.github.io/React-Monster/static/js/main.79b02966.chunk.js.map",
-    "runtime-main.js": "/hariprasath2603.github.io/React-Monster/static/js/runtime-main.0408a5a6.js",
-    "runtime-main.js.map": "/hariprasath2603.github.io/React-Monster/static/js/runtime-main.0408a5a6.js.map",
-    "static/js/2.62b152fc.chunk.js": "/hariprasath2603.github.io/React-Monster/static/js/2.62b152fc.chunk.js",
-    "static/js/2.62b152fc.chunk.js.map": "/hariprasath2603.github.io/React-Monster/static/js/2.62b152fc.chunk.js.map",
-    "static/js/3.1cf2f5d0.chunk.js": "/hariprasath2603.github.io/React-Monster/static/js/3.1cf2f5d0.chunk.js",
-    "static/js/3.1cf2f5d0.chunk.js.map": "/hariprasath2603.github.io/React-Monster/static/js/3.1cf2f5d0.chunk.js.map",
-    "index.html": "/hariprasath2603.github.io/React-Monster/index.html",
-    "static/css/main.e24f122d.chunk.css.map": "/hariprasath2603.github.io/React-Monster/static/css/main.e24f122d.chunk.css.map",
-    "static/js/2.62b152fc.chunk.js.LICENSE.txt": "/hariprasath2603.github.io/React-Monster/static/js/2.62b152fc.chunk.js.LICENSE.txt"
+    "main.css": "./static/css/main.e24f122d.chunk.css",
+    "main.js": "./static/js/main.79b02966.chunk.js",
+    "main.js.map": "./static/js/main.79b02966.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.6167cecc.js",
+    "runtime-main.js.map": "./static/js/runtime-main.6167cecc.js.map",
+    "static/js/2.62b152fc.chunk.js": "./static/js/2.62b152fc.chunk.js",
+    "static/js/2.62b152fc.chunk.js.map": "./static/js/2.62b152fc.chunk.js.map",
+    "static/js/3.1cf2f5d0.chunk.js": "./static/js/3.1cf2f5d0.chunk.js",
+    "static/js/3.1cf2f5d0.chunk.js.map": "./static/js/3.1cf2f5d0.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.e24f122d.chunk.css.map": "./static/css/main.e24f122d.chunk.css.map",
+    "static/js/2.62b152fc.chunk.js.LICENSE.txt": "./static/js/2.62b152fc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0408a5a6.js",
+    "static/js/runtime-main.6167cecc.js",
     "static/js/2.62b152fc.chunk.js",
     "static/css/main.e24f122d.chunk.css",
     "static/js/main.79b02966.chunk.js"
